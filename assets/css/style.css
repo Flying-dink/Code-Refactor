@@ -128,8 +128,7 @@ p {
 .benefit-box img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
-    background-color: #2589bd; 
+    max-width: 150px; 
 }
 
 /*END BENEFIT BOX STYLING*/
