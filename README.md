@@ -34,7 +34,7 @@ The website is a good example of SEO.  Technology employed:  HTML and CSS
 
 ## License
 MIT
- [https://choosealicense.com/](https://choosealicense.com/)
+
 
 
 ---
