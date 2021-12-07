@@ -5,9 +5,10 @@
 
 
 ## Description
+A website that has been optimized for search engines. A code base that has been cleaned up and follows accessibility standards.
  
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 
 
@@ -18,12 +19,13 @@
 
 
 ## Installation
-
+Click on the deployed link
 
 
 
 
 ## Usage 
+The website is a good example of SEO.  Technology employed:  HTML and CSS
 
 
 
@@ -75,5 +77,5 @@ none
 
 ## Questions?
 
-github: Flying-Dink
+github.com/Flying-Dink
 skydoll96@gmail.com
